@@ -1,2 +1,3 @@
 my name is Rahul
-my favourite color is red
+
+my favourite color is brown (after conflict)
